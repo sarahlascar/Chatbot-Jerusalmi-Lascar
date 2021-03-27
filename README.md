@@ -5,6 +5,7 @@ Passionate about geography, we decided to choose the theme of countries as the s
 
 
 To use our Chatbot you have to :
+
     - enter in the directory of the project "cd /Path_of_the_Project ";
     
     - "npm install" ;
