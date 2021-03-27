@@ -15,5 +15,5 @@ To use our Chatbot you have to :
     - connect the facebook developper app with the webhook and ngrok.
   
   
-  Now you can talk with it !
+  Now you can talk with it on facebook messenger!
 
